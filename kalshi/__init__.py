@@ -1,0 +1,1 @@
+# Kalshi Market Activity Scanner
